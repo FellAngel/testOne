@@ -64,27 +64,27 @@
 }
 
 .main__content__title__right__socials__item__youtube {
-  background: url("./img/icons/YouTube.png");
+  background: url("../img/icons/YouTube.png");
 }
 
 .main__content__title__right__socials__item__vk {
-  background: url("./img/icons/VK.png");
+  background: url("../img/icons/VK.png");
 }
 
 .main__content__title__right__socials__item__facebook {
-  background: url("./img/icons/Facebook.png");
+  background: url("../img/icons/Facebook.png");
 }
 
 .main__content__title__right__socials__item__twitter {
-  background: url("./img/icons/Twitter.png");
+  background: url("../img/icons/Twitter.png");
 }
 
 .main__content__title__right__socials__item__twitch {
-  background: url("./img/icons/Twitch.png");
+  background: url("../img/icons/Twitch.png");
 }
 
 .main__content__title__right__socials__item__instagram {
-  background: url("./img/icons/Instagramm.png");
+  background: url("../img/icons/Instagramm.png");
 }
 
 .main {
@@ -393,7 +393,7 @@
 }
 
 .checkbox__fake::before {
-  background: url("./img/icons/Check.png");
+  background: url("../img/icons/Check.png");
   content: "";
   position: absolute;
   width: 14px;
@@ -837,19 +837,19 @@
 
 @supports (-webkit-appearance:none) {
   .main__content__title__right__socials__item__youtube {
-    background-image: url("./img/icons/YouTube.webp");
+    background-image: url("../img/icons/YouTube.webp");
   }
 
   .main__content__title__right__socials__item__vk {
-    background-image: url("./img/icons/VK.webp");
+    background-image: url("../img/icons/VK.webp");
   }
 
   .main__content__title__right__socials__item__facebook {
-    background-image: url("./img/icons/Facebook.webp");
+    background-image: url("../img/icons/Facebook.webp");
   }
 
   .main__content__title__right__socials__item__twitter {
-    background-image: url("./img/icons/Twitter.webp");
+    background-image: url("../img/icons/Twitter.webp");
   }
 
   .main__content__title__right__socials__item__twitch {
@@ -857,7 +857,7 @@
   }
 
   .main__content__title__right__socials__item__instagram {
-    background-image: url("./img/icons/Instagramm.webp");
+    background-image: url("../img/icons/Instagramm.webp");
   }
 
   .main {
@@ -865,11 +865,11 @@
   }
 
   .connection__content__action__img {
-    background-image: url("./img/images/Action.webp");
+    background-image: url("../img/images/Action.webp");
   }
 
   .checkbox__fake::before {
-    background-image: url("./img/icons/Check.webp");
+    background-image: url("../img/icons/Check.webp");
   }
 }
 
