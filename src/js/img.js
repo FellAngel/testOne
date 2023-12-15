@@ -27,13 +27,13 @@ function changeImage() {
 
     switch (currentIndex) {
         case 0:
-            photoName = 'url(\'../img/images/photo1.png\')'
+            photoName = 'url(\'./img/images/photo1.png\')'
             break;
         case 1:
-            photoName = 'url(\'../img/images/photo2.png\')'
+            photoName = 'url(\'./img/images/photo2.png\')'
             break;
         case 2:
-            photoName = 'url(\'../img/images/photo3.png\')'
+            photoName = 'url(\'./img/images/photo3.png\')'
             break;
     }
 
